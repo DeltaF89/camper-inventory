@@ -13,7 +13,7 @@ import java.util.List;
 public class InventoryController {
 
     private InventoryService inventoryService;
-
+    //I did this in class
     public InventoryController(InventoryService inventoryService) {
         this.inventoryService = inventoryService;
     }
